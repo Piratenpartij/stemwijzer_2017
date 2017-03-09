@@ -51,6 +51,9 @@
     font-size: 24px;
     text-align: right;
 }
+html {
+    min-height: 100%;
+}
 body {
     margin: 0px;
     padding: 0px;
@@ -59,7 +62,7 @@ body {
     background-position: bottom left;
     background-repeat: no-repeat;
     font-family: Lora;
-    min-height: 1000px;
+    min-height: 100%;
 }
 p {
     font-family: Lora;
@@ -74,7 +77,7 @@ p {
 #statement {
     display: none;
     background: #623e6b;
-    opacity: 90%;
+    opacity: 0.9;
     border-radius: 20px;
     width: 50%;
     margin-left: auto;
