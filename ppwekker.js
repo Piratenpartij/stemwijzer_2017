@@ -19,14 +19,14 @@ statements = [
     "Ik vind dat de overheid te vaak geld verspilt aan grote mislukte ICT projecten",
     "Ik heb recht op vrije en veilige communicatie zonder meekijken van overheid of grote bedrijven",
     "Klokkenluiders als Snowden en Manning vervullen een belangrijke functie en moeten beschermd worden",
-    "Onderwijs is basis van onze (informatie)samenleving en moet open en toegankelijk zijn voor iedereen",
+    "Onderwijs is de basis van onze (informatie)samenleving en moet open en toegankelijk zijn voor iedereen",
     "Wetenschap moet onafhankelijk, open en transparant zijn: open science, open access, open source",
     "Mijn patiëntgegevens in de zorg zijn privé en mogen nooit zonder expliciete toestemming gedeeld worden, ook niet aan zorgverzekeraars.",
     "Auteursrecht moet hervormd worden voor de 21e eeuw; creatieve innovatie moet aangemoedigd worden en artiesten/auteurs moeten een eerlijke boterham kunnen verdienen",
     "Patentrecht moet beperkt worden en innovatie bevorderen ipv. hinderen. Dure patenten in de farmaceutische industrie leiden bv. tot onnodig hoge medicijnkosten",
     "Ik vind het een slechte zaak dat steeds meer fabrikanten beperken wat we met gekochte producten kunnen doen en ben tegen Digital Rights Management en vóór zelf sleutelen",
     "Het internet kent geen grenzen; kunstmatige blokkades als filmpjes/sites niet buiten bepaalde landen kunnen kijken (geoblocking) is ongewenst.",
-    "Drugsgebruik voor volwassen valt onder zelfbeschikkingsrecht: Cannabis legaliseren dus!"
+    "Drugsgebruik voor volwassenen valt onder zelfbeschikkingsrecht: Cannabis legaliseren dus!"
 ];
 shuffle(statements);
 
