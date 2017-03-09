@@ -1,0 +1,207 @@
+@font-face {
+  font-family: 'Lora';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Lora-regular/Lora-regular.eot');
+  src: url('fonts/Lora-regular/Lora-regular.eot?#iefix') format('embedded-opentype'),
+       local('Lora Regular'),
+       local('Lora-regular'),
+       url('fonts/Lora-regular/Lora-regular.woff2') format('woff2'),
+       url('fonts/Lora-regular/Lora-regular.woff') format('woff'),
+       url('fonts/Lora-regular/Lora-regular.ttf') format('truetype'),
+       url('fonts/Lora-regular/Lora-regular.svg#Lora') format('svg');
+}
+
+#header {
+    margin: 0px;
+    padding: 0px;
+    background: #572b85;
+    background-image: url(PPLogo-st-diap.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+    height: 120px;
+}
+#titlebar {
+    background: black;
+    color: white;
+    height: 80px;
+}
+#titlebar h1 {
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin-left: 0px;
+    padding-top: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 30px;
+}
+#countdown {
+    color: #e777ff;
+    width: 30%;
+    float: right;
+    vertical-align: middle;
+    padding-right: 30px;
+}
+#countdown .time {
+    display: block;
+    height: 120px;
+    font-family: monospace;
+    font-size: 24px;
+    text-align: right;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #282429;
+    background-image: url(ancilla.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    font-family: Lora;
+    min-height: 1000px;
+}
+p {
+    font-family: Lora;
+}
+#main p {
+    margin-left: auto;
+    margin-right: auto;
+    max-width:  540px;
+    color: #f9dbff;
+    font-size: 17px;
+}
+#statement {
+    display: none;
+    background: #623e6b;
+    opacity: 90%;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    padding-top: 10px;
+    margin-bottom: 40px;
+    max-width: 800px;
+}
+.seqnr {
+    display: block;
+    font-family: sans-serif;
+    font-size: 60%;
+    color: #e777ff;
+    margin-left: 20px;
+}
+blockquote {
+    margin: 1.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+    color: white;
+    padding-top: 20px;
+    font-size: 120%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    width: 80%;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+/*blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 3em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}*/
+blockquote p {
+  display: inline;
+}
+#statement p {
+    color: white;
+    padding-top: 20px;
+    font-size: 120%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    font-weight: bold;
+    width: 80%;
+}
+.buttons {
+    text-align: center;
+    width: 100%;
+    padding-bottom: 20px;
+}
+#share {
+    display: none;
+    background: #000;
+    opacity: 90%;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    padding-top: 10px;
+    margin-bottom: 40px;
+    max-width: 800px;
+}
+button {
+    border-radius: 20px;
+    font-size: 150%;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+button:hover {
+    border: 2px yellow solid;
+}
+button#agree {
+    background: #3e6644;
+    color: #09e71e;
+}
+button#disagree {
+    background: #663e3e;
+    color: #e70909;
+}
+button#facebook {
+    background: black;
+    color: white;
+}
+button#twitter {
+    background: black;
+    color: white;
+}
+#references {
+    color: #aaa;
+    position: fixed;
+    width: 50%;
+    right: 0px;
+    margin-right: 10px;
+    bottom: 30px;
+    text-align: right;
+    font-family: sans-serif;
+    background: #282429;
+}
+#footer {
+    background: #282429;
+    width: 50%;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    color: #aaa;
+    font-family: monospace;
+    font-style: 80%;
+}
+a {
+    color: #e777ff;
+}
