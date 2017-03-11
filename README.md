@@ -7,5 +7,9 @@ hand van een klein aantal stellingen.
 Het is bedoeld voor de eindsprint van de 2017 campagne en telt af naar de
 Tweede Kamerverkiezingen.
 
+Deze kieswijzer is hier te vinden: https://piratenpartij.nl/stemwijzer/
+
+
+
 
 
