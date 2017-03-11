@@ -111,12 +111,12 @@ $(document).ready(function(){
         $('#statement').hide(500);
         agree++;
         current++;
-        presentstatement();
+        window.setTimeout(presentstatement, 500);
     });
     $('#disagree').click(function(){
         $('#statement').hide(250);
         disagree++;
         current++;
-        presentstatement();
+        window.setTimeout(presentstatement, 250);
     });
 });
