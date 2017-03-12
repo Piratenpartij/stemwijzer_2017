@@ -103,8 +103,8 @@ statements_extended = [
 statements = [
     "Er moet meer bescherming zijn op wat grote bedrijven als Google en Facebook met mijn data mogen doen",
     "Ik vind dat ik in de publieke ruimte niet overal gevolgd moet worden door (slimme) camera's",
-    "Burgers moeten directer bij de democratie betrokken worden; techniek maakt dit mogelijk",
-    "Ik vind dat de overheid te vaak geld verspilt aan grote mislukte ICT projecten",
+    "Burgers moeten directer bij de democratie betrokken worden (E-Democracy); techniek maakt dit mogelijk",
+    "Ik vind dat de overheid te vaak geld verspilt aan grote mislukte ICT projecten: er moet een Ministerie van Digitale Infrastructuur komen die op zulke projecten toeziet.",
     "Ik heb recht op vrije en veilige communicatie zonder meekijken van overheid of grote bedrijven",
     "Onderwijs is de basis van onze (informatie)samenleving en moet open en toegankelijk zijn voor iedereen",
     "Wetenschap moet onafhankelijk, open en transparant zijn: open science, open access, open source",
