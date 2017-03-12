@@ -13,11 +13,12 @@ function shuffle(a) {
 }
 
 statements_extended = [
-    "Burgerrechten staan onder druk tot toenemende surveillance van overheden én bedrijven; dit is een kwalijke ontwikkeling: privacy is een grondrecht",
+    "Burgerrechten staan onder druk door toenemende surveillance van overheden én bedrijven; dit is een kwalijke ontwikkeling: privacy is een grondrecht",
     "Nederland moet in internationaal verband de hoogst mogelijke standaard van burgerrechten bepleiten en verdedigen.",
     "Er moet een verbod komen op de ongevraagde verkoop van persoonlijke informatie. Ook korting in ruil voor gegevens wordt verboden.",
     "Ik vind dat ik in de publieke ruimte niet overal gevolgd moet worden door (slimme) camera's; cameratoezicht moet worden beperkt",
-    "Etnisch profileren werkt niet en moet bij wet verboden worden",
+    "Ik heb recht op vrije en veilige communicatie zonder meekijken van overheid of grote bedrijven",
+    "Ethnisch profileren werkt niet en moet bij wet verboden worden",
     "Als burgers hebben we het recht te weten waar, wanneer, door wie en welke gegevens over ons opgevraagd worden tijdens een onderzoek. Deze gevoelige systemen moeten beter gecontroleerd en beveiligd worden.",
     "Er mogen geen sleepnetmethodes worden gebruikt om informatie te verzamelen, hiermee wordt iedere burger tot een verdachte gemaakt.",
     "In principe zijn overheidsdocumenten openbaar, de Wet Open Overheid moet worden vormgegeven rondom uitzonderingen.",
@@ -85,7 +86,7 @@ statements_extended = [
 	"Les- en leermateriaal alsmede hoorcollege's in het onderwijs moeten zoveel mogelijk vrij en online toegankelijk zijn; verplicht als het door de overheid bekostigd is.",
 	"Onderwijsomgevingen worden met open source software ontwikkeld. Scholen mogen leerlingen nooit verplichten tot de aanschaf van een specifiek merk of type hardware.",
 	"Wetenschap moet zo onafhankelijk en transparant mogelijk te werk gaan: publiceer altijd wie onderzoek gefinancierd heeft, alle relevantie informatie omtrent een onderzoek (open science), en maak wetenschappelijke publicaties vrij toegankelijk (open access)",
-	"Ieder mens moet vrij zijn om te kunnen reizen zonder overheidsbemoeienis, het gedetailleerd, automatisch en systematisch in kaart brengen van het reisgedrag van identificeerbare burgers moet worden gestopt.",
+	"Ieder mens moet vrij zijn om te kunnen reizen zonder overheidsbemoeienis; het gedetailleerd, automatisch en systematisch in kaart brengen van het reisgedrag van identificeerbare burgers moet worden gestopt.",
 	"Anoniem parkeren moet altijd mogelijk zijn zonder kentekenregistratie.",
 	"Er komt geen kilometerheffing: daar zijn systemen voor nodig die privacy schenden.",
  	"Er moet een einde komen aan onze afhankelijkheid van fossiele brandstoffen en de bedrijven en staten die deze brandstoffen controleren.",
